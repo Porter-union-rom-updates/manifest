@@ -9,6 +9,11 @@
   <remote  name="infinity"
            fetch="https://github.com/ProjectInfinity-X"
            revision="QPR3" />
+    
+  <!-- Project LineageOS -->
+  <remote  name="infinity"
+           fetch="https://github.com/LineageOS-X"
+           revision="lineage-21.0" />
 
   <!-- Gitea (Project Infinity X) -->
   <remote  name="infinity-gitea"
