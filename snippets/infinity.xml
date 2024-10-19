@@ -11,8 +11,8 @@
            revision="QPR3" />
     
   <!-- Project LineageOS -->
-  <remote  name="infinity"
-           fetch="https://github.com/LineageOS-X"
+  <remote  name="LineageOS"
+           fetch="https://github.com/LineageOS"
            revision="lineage-21.0" />
 
   <!-- Gitea (Project Infinity X) -->
