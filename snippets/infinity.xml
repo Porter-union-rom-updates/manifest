@@ -58,7 +58,7 @@
   <project path="manifest" name="manifest" remote="infinity" />
 
   <!-- Remote Hardware -->
-  <project path="hardware/infinity/interfaces" name="hardware_infinity_interfaces" remote="infinity" />
+  <project path="hardware/infinity/interfaces" name="android_hardware_lineage_interfaces" remote="LineageOS" />
   <project path="hardware/interfaces" name="hardware_interfaces" remote="infinity" />
   <project path="hardware/qcom-caf/wlan" name="hardware_qcom-caf_wlan" revision="QPR3" remote="infinity" />
   <project path="hardware/qcom-caf/sm8350/display" name="hardware_qcom-caf_sm8350_display" revision="QPR3" remote="infinity" />
